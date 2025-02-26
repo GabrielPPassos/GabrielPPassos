@@ -20,7 +20,7 @@
 <div align="center">
   <br>
   <p>
-    Currently working as a <b>Full Stack Developer</b> at <b>Garty Group</b>, contributing to multiple projects including <b>Lisboa RP</b>, <b>Universe RP</b>, <b>Euforia RP</b>, and <b>Sakura RP</b>. Passionate about creating immersive gaming experiences and building robust web applications.
+    Currently working as a <b>Full Stack Developer</b> at <b>Garty Group</b>, contributing to multiple projects including <b>Lisboa RP</b>, <b>Universe RP</b>, <b>Euforia RP</b>, <b>Sakura RP</b> and <b>Cidade Bella</b>. Passionate about creating immersive gaming experiences and building robust web applications.
   </p>
 </div>
 
