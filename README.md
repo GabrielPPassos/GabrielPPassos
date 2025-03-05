@@ -1,83 +1,158 @@
-<div align="center">
-  <img src="https://i.pinimg.com/736x/9b/58/26/9b582618470d817ab04525aa772ef4e3.jpg?w=800&h=300&fit=crop" alt="Venom-themed banner">
-  <h1>
-    <samp>
-      Gabriel Passos
-    </samp>
-  </h1>
-</div>
-
-<div align="center" style="align-items: center;">
-  <samp>
-    「 Full Stack Developer from <b>Rio de Janeiro, Brazil</b> 」
-    <br>
-    「 Age: 18 」
-  </samp>
-</div>
-
-<br>
-
-<div align="center">
-  <br>
-  <p>
-    Currently working as a <b>Full Stack Developer</b> at <b>Garty Group</b>, contributing to multiple projects including <b>Lisboa RP</b>, <b>Universe RP</b>, <b>Euforia RP</b>, <b>Sakura RP</b> and <b>Cidade Bella</b>. Passionate about creating immersive gaming experiences and building robust web applications.
-  </p>
-</div>
-
-## 🕸️ Tech Symbiosis
+# Gabriel Passos
+## Desenvolvedor Full Stack & Designer UI/UX
 
 <div align="center">
 
-### Frontend Tendrils
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-
-### Backend Strength
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-
-### Database Mastery
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+🚀 **Transformando ideias em experiências digitais excepcionais desde 2018**
 
 </div>
 
-## 🕷️ Current Hosts
+---
 
-<table align="center">
-  <tr>
-    <td align="center">
-      Lisboa RP
-    </td>
-    <td align="center">
-      Universe RP
-    </td>
-    <td align="center">
-      Euforia RP
-    </td>
-    <td align="center">
-      Sakura RP
-    </td>
-  </tr>
-</table>
+### 👨‍💻 Sobre Mim
+
+Sou um Desenvolvedor Full Stack de 18 anos, apaixonado por criar soluções inovadoras e experiências imersivas. Especializado no desenvolvimento para FiveM desde 2018, trago uma combinação única de expertise técnica e pensamento criativo em design para cada projeto.
+
+### 🛠️ Arsenal Técnico
+
+```javascript
+const skills = {
+    frontend: [
+        "React", "Next.js", "TypeScript",
+        "HTML5", "CSS3", "JavaScript",
+        "TailwindCSS", "Vite"
+    ],
+    backend: [
+        "Node.js", "Express.js", "PHP",
+        "Python", "Lua", "Java"
+    ],
+    database: ["MongoDB", "SQL"],
+    fivemdev: [
+        "vRP 0.5", "vRP 1.0", "vRP 2.0",
+        "vRP 3.0", "ESX", "QBCore", "QBox"
+    ],
+    design: ["UI/UX Design", "Figma", "VFX", "Image Composition"]
+}
+```
+
+### 🌟 Projetos em Destaque
+
+#### Society Experience (2024)
+Uma experiência inovadora no FiveM que revoluciona o GTA RP com recursos inovadores e mecânicas de jogo imersivas.
+
+#### Greenpeace Los Santos +3C (2022-2023)
+🏆 **Projeto premiado apresentado na Globo**
+- Arquitetura backend utilizando Lua, JavaScript e Node.js
+- Destaque em grandes veículos de mídia por sua abordagem inovadora à conscientização ambiental
+
+#### FiveM Battle Royale Framework
+- Desenvolvi independentemente um framework Battle Royale open-source
+- Solução completa para servidores FiveM
+- Demonstra mecânicas avançadas de jogo e otimização
+
+### 📈 Timeline
+
+```mermaid
+timeline
+    2015 : Desenvolvimento em Java para Minecraft
+    2018 : Início no Desenvolvimento FiveM
+    2019 : Sun Happy vRP
+        : Amorim vRP
+    2020 : Kings Roleplay
+    2022 : Greenpeace Los Santos
+    2024 : StreetGroup FiveM
+        : Society Experience
+        : Distrito Roleplay
+    2025 : Lisboa Roleplay
+        : Universe Roleplay
+        : Euforia Roleplay
+        : Sakura Roleplay
+```
+
+### 🏆 Cases de Sucesso
+
+1. **Amorim vRP**
+   - Uma base renomada de FiveM Roleplay
+   - Ganhou amplo reconhecimento na comunidade
+
+2. **FiveM Discord Bot**
+   - Integrações automatizadas com sistemas de RP
+   - Melhorou a eficiência da administração de servidores
+
+3. **Distrito Experience**
+   - Criei uma experiência inovadora de GTA RP
+   - Implementei elementos transformadores de jogabilidade
+
+### 💼 Experiência Profissional
+
+```typescript
+interface Experience {
+    company: string;
+    role: string;
+    period: string;
+    technologies: string[];
+}
+
+const experiences: Experience[] = [
+    {
+        company: "Minecraft Plugins",
+        role: "Backend Developer",
+        period: "2015-2019",
+        technologies: ["Java"]
+    },
+    {
+        company: "Amorim vRP",
+        role: "Backend Developer",
+        period: "2019-2021",
+        technologies: ["Lua"]
+    },
+    {
+        company: "Kings Roleplay",
+        role: "Full Stack Developer",
+        period: "2020-2023",
+        technologies: ["Lua", "JavaScript", "HTML", "CSS", "Node.js"]
+    },
+    {
+        company: "Greenpeace Los Santos",
+        role: "Backend Developer",
+        period: "2022-2023",
+        technologies: ["Lua", "JavaScript", "Node.js"]
+    },
+    {
+        company: "StreetGroup FiveM",
+        role: "Full Stack Developer",
+        period: "2024",
+        technologies: ["Lua", "JavaScript", "HTML", "CSS", "Node.js"]
+    },
+    {
+        company: "Society Experience",
+        role: "Full Stack Developer",
+        period: "2024",
+        technologies: ["Lua", "JavaScript", "HTML", "CSS", "Node.js"]
+    },
+    {
+        company: "Distrito Experience",
+        role: "Full Stack Developer",
+        period: "2024-2025",
+        technologies: ["Lua", "JavaScript", "HTML", "CSS", "Node.js"]
+    },
+    {
+        company: "Garty Group's FiveM Servers",
+        role: "Backend Developer",
+        period: "2025-current",
+        technologies: ["Lua", "JavaScript"]
+    },
+];
+```
+
+### 🌐 Let's Connect!
+
+Estou sempre animado para colaborar em projetos inovadores e explorar novas oportunidades. Se você deseja revolucionar seu servidor FiveM ou precisa de um desenvolvedor Full Stack que traga soluções criativas para problemas complexos, estou aqui para ajudar!
 
 ---
 
 <div align="center">
-  <samp>
-    「 Let's connect and build something amazing together! 」
-    <br>
-    「 We are Venom 」
-  </samp>
+
+**"Criando experiências digitais imersivas que ultrapassam os limites do possível"**
+
 </div>
