@@ -13,6 +13,8 @@
 
 Sou um Desenvolvedor Full Stack de 18 anos, apaixonado por criar soluções inovadoras e experiências imersivas. Especializado no desenvolvimento para FiveM desde 2018, trago uma combinação única de expertise técnica e pensamento criativo em design para cada projeto.
 
+💻 Garty Group's Developer.
+
 ### 🛠️ Arsenal Técnico
 
 ```javascript
