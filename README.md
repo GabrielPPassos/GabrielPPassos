@@ -1,5 +1,5 @@
 # Gabriel Passos
-## Desenvolvedor Full Stack & Designer UI/UX
+## Full Stack Developer && Designer UI/UX
 
 <div align="center">
 
@@ -13,7 +13,7 @@
 
 Sou um Desenvolvedor Full Stack de 18 anos, apaixonado por criar soluções inovadoras e experiências imersivas. Especializado no desenvolvimento para FiveM desde 2018, trago uma combinação única de expertise técnica e pensamento criativo em design para cada projeto.
 
-💻 Garty Group's Developer.
+💻 Tech Lead at Garty Group.
 
 ### 🛠️ Arsenal Técnico
 
