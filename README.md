@@ -9,11 +9,11 @@
 
 ---
 
-### 👨‍💻 Sobre Mim
+### 👨‍💻 About Me
 
-Sou um Desenvolvedor Full Stack de 18 anos, apaixonado por criar soluções inovadoras e experiências imersivas. Especializado no desenvolvimento para FiveM desde 2018, trago uma combinação única de expertise técnica e pensamento criativo em design para cada projeto.
+Im an 18-year-old Full Stack Developer passionate about creating innovative solutions and immersive experiences. Specializing in FiveM development since 2018, I bring a unique combination of technical expertise and creative design thinking to each project.
 
-💻 Back-end Developer at Lisboa GG, Sakura RP, Cidade Bella
+💻 Back-end Developer at Lisboa Group, Sakura RP, Cidade Bella
 
 ### 🛠️ Arsenal Técnico
 
