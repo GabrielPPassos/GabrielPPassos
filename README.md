@@ -88,12 +88,12 @@ const experience = [
   },
   {
     company: "Society Experience",
-    role: "Back-End Developer",
+    role: "Full Stack Developer",
     period: "2024",
   },
   {
     company: "Distrito Experience",
-    role: "Back-End Developer",
+    role: "Full Stack Developer",
     period: "2024–2025",
   },
   {
