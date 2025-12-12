@@ -14,7 +14,7 @@
 Sou um desenvolvedor **Back-End** de 18 anos, apaixonado por **tecnologia, automação e criação de experiências únicas no ecossistema FiveM**.  
 Atuando desde 2018, combino performance, arquitetura sólida e design de sistemas para entregar projetos que se destacam pela eficiência e inovação.
 
-💼 Atualmente: **Back-End Developer** em **Lisboa Group, Sakura RP e Cidade Bella**
+💼 Atualmente: **Tech Lead** em **Lisboa Group, Sakura RP e Cidade Bella**
 
 ---
 
