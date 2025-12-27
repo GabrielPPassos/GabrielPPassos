@@ -11,8 +11,11 @@
 
 ### 👨‍💻 About Me
 
-Sou um desenvolvedor **Back-End** de 18 anos, apaixonado por **tecnologia, automação e criação de experiências únicas no ecossistema FiveM**.  
-Atuando desde 2018, combino performance, arquitetura sólida e design de sistemas para entregar projetos que se destacam pela eficiência e inovação.
+Eaí? Meu nome é Gabriel, tenho 19 anos e sou **desenvolvedor back-end** há **11 anos**. Sou apaixonado por programação desde os 8 anos de idade. Comecei a trabalhar cedo, desenvolvendo sistemas para servidores de Minecraft, em seu auge (2015). Anos depois, me especializei na construção de sistemas escaláveis ​​e de grande escala que priorizam eficiência, arquitetura limpa e desempenho sólido.
+
+Projeto soluções que escalam perfeitamente e entregam resultados reais. Com minha expertise em programação e gestão de projetos, trago ideias criativas e de alta performance para cada projeto, garantindo que o seu não apenas funcione, mas prospere. Sou obcecado por lidar com desenvolvimentos ambiciosos e de grande impacto, e estou sempre aprimorando minhas habilidades.
+
+Além do domínio do backend, possuo um conjunto de ferramentas versátil: liderança precisa de equipes e projetos, otimização da experiência do usuário e até mesmo execução de tarefas criativas como edição de vídeo, composição de imagens e narrativa cinematográfica. Estou aqui para transformar sua visão em uma realidade refinada e de alto impacto.
 
 💼 Atualmente: **Tech Lead** em **Lisboa Group, Sakura RP e Cidade Bella**
 
