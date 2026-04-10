@@ -1,131 +1,77 @@
 # Gabriel Passos
-## Back-End Developer && FiveM Specialist
 
 <div align="center">
 
-🚀 **Transformando ideias em soluções escaláveis e experiências digitais imersivas desde 2018**
+Backend Engineer  
+APIs | System Design | Software Architecture
+
+Atualmente Tech Lead na Lisboa Group
+
+[GitHub](https://github.com/GabrielPPassos) • [Contato](mailto:gabrielpassossky@gmail.com)
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+## Sobre
 
-Eaí? Meu nome é Gabriel, tenho 19 anos e sou **desenvolvedor back-end** há **11 anos**. Sou apaixonado por programação desde os 8 anos de idade. Comecei a trabalhar cedo, desenvolvendo sistemas para servidores de Minecraft, em seu auge (2015). Anos depois, me especializei na construção de sistemas escaláveis ​​e de grande escala que priorizam eficiência, arquitetura limpa e desempenho sólido.
+Construo backends para produtos reais, com foco em clareza arquitetural, escalabilidade e manutenção de longo prazo.
 
-Projeto soluções que escalam perfeitamente e entregam resultados reais. Com minha expertise em programação e gestão de projetos, trago ideias criativas e de alta performance para cada projeto, garantindo que o seu não apenas funcione, mas prospere. Sou obcecado por lidar com desenvolvimentos ambiciosos e de grande impacto, e estou sempre aprimorando minhas habilidades.
+Hoje atuo como **Tech Lead na Lisboa Group**, liderando decisões técnicas, desenho de APIs e entregas com foco em consistência, performance e evolução sustentável do produto.
 
-Além do domínio do backend, possuo um conjunto de ferramentas versátil: liderança precisa de equipes e projetos, otimização da experiência do usuário e até mesmo execução de tarefas criativas como edição de vídeo, composição de imagens e narrativa cinematográfica. Estou aqui para transformar sua visão em uma realidade refinada e de alto impacto.
+Minha abordagem é simples: cada decisão precisa ter propósito. Gosto de sistemas bem estruturados, APIs robustas e código que continua fazendo sentido mesmo quando o produto cresce.
 
-💼 Atualmente: **Tech Lead** em **Lisboa Group, Sakura RP e Cidade Bella**
+Além do backend tradicional, também trabalho com game development em **FiveM**, **RedM** e **Roblox**, unindo lógica de servidor, performance e experiência de produto.
 
 ---
 
-### 🛠️ Stack Técnica
+## Foco
 
-```javascript
-const backendSkills = {
-    languages: ["Node.js", "Lua", "Python", "Java"],
-    frameworks: ["Express.js", "vRP (0.5 - 3.0)", "ESX", "QBCore", "QBox"],
-    databases: ["SQL"],
-    tools: ["Git", "REST APIs", "WebSocket"]
-}
+- Backend Engineering
+- APIs REST e arquitetura de serviços
+- Software Architecture e System Design
+- Performance, escalabilidade e código limpo
+- Liderança técnica e evolução de produto
+
+---
+
+## Stack
+
+```ts
+const gabrielPassos = {
+  languages: ['JavaScript', 'TypeScript', 'Lua', 'Luau'],
+  backend: ['Node.js', 'NestJS', 'Fastify'],
+  architecture: ['REST APIs', 'gRPC', 'Event-driven systems'],
+  databases: ['PostgreSQL', 'MariaDB', 'MySQL', 'Cassandra', 'MongoDB', 'DynamoDB'],
+  cache: ['Redis', 'Memcached'],
+  infra: ['Docker', 'AWS Lambda'],
+  gameDev: ['FiveM', 'RedM', 'Roblox'],
+};
 ```
 
 ---
 
-### 🌟 Projetos em Destaque
+## Atualmente
 
-#### 🏙️ Society Experience (2024)
-Uma experiência inovadora no FiveM que redefine o GTA RP com **recursos avançados**, **mecânicas imersivas** e **integrações otimizadas**.
-
-#### 🌿 Greenpeace Los Santos +3C (2022–2023)
-🏆 **Projeto premiado e apresentado na Globo**  
-- Arquitetura de backend com **Lua** e **Node.js**  
-- Destaque nacional pela abordagem tecnológica voltada à **conscientização ambiental**
-
-#### ⚔️ FiveM Battle Royale Framework
-- Framework **open-source** desenvolvido do zero  
-- Implementação completa de sistemas de loot, zonas e mecânicas BR  
-- **Otimizado para performance e escalabilidade**
+- **Cargo:** Tech Lead
+- **Empresa:** Lisboa Group
+- **Atuação:** liderança técnica, arquitetura de software, definição de backend e suporte a produtos em produção
 
 ---
 
-### 📈 Timeline
+## Princípios de Engenharia
 
-```mermaid
-timeline
-    2015 : Início no desenvolvimento Java (Minecraft)
-    2018 : Entrada no mundo FiveM
-    2019 : Amorim vRP
-    2020 : Kings Roleplay
-    2022 : Greenpeace Los Santos
-    2024 : Society Experience
-        : StreetGroup FiveM
-        : Distrito Roleplay
-    2025 : Lisboa Roleplay
-        : Sakura Roleplay
-        : Cidade Bella
-```
+- Simplicidade antes de complexidade
+- Arquitetura como meio, não como excesso
+- Código limpo e fácil de evoluir
+- Performance e confiabilidade como requisitos
+- Soluções pensadas para crescer com o produto
 
 ---
 
-### 💼 Experiência Profissional
+## Contato
 
-```typescript
-const experience = [
-  {
-    company: "Amorim vRP",
-    role: "Back-End Developer",
-    period: "2019–2021",
-  },
-  {
-    company: "Kings Roleplay",
-    role: "Full Stack Developer",
-    period: "2020–2023",
-  },
-  {
-    company: "Greenpeace Los Santos",
-    role: "Back-End Developer",
-    period: "2022–2023",
-  },
-  {
-    company: "Society Experience",
-    role: "Full Stack Developer",
-    period: "2024",
-  },
-  {
-    company: "Distrito Experience",
-    role: "Full Stack Developer",
-    period: "2024–2025",
-  },
-  {
-    company: "Lisboa Group / Sakura RP / Cidade Bella",
-    role: "Back-End Developer",
-    period: "2025–atual",
-  }
-];
-```
+Se você quer discutir um projeto, uma oportunidade ou trocar ideias sobre backend, arquitetura e sistemas distribuídos, vamos conversar.
 
----
-
-### 🏆 Cases de Sucesso
-
-- **Amorim vRP** — Uma das bases FiveM mais reconhecidas da comunidade  
-- **FiveM Discord Bot** — Integrações automatizadas que otimizaram a gestão de servidores  
-- **Distrito Experience** — Nova geração de gameplay RP com foco em imersão e inovação
-
----
-
-### 🌐 Let's Connect
-
-Sempre aberto a novas parcerias e desafios.  
-Se você busca um **desenvolvedor back-end especializado em FiveM**, pronto para elevar o nível técnico do seu projeto — **vamos conversar!**
-
----
-
-<div align="center">
-
-**"Criando experiências digitais que ultrapassam os limites do possível"**
-
-</div>
+- **Email:** [gabrielpassossky@gmail.com](mailto:gabrielpassossky@gmail.com)
+- **GitHub:** [github.com/GabrielPPassos](https://github.com/GabrielPPassos)
