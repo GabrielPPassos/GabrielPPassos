@@ -35,19 +35,22 @@ Além do backend tradicional, também trabalho com game development em **FiveM**
 
 ---
 
-## Stack
+## Stack Principal
 
-```ts
-const gabrielPassos = {
-  languages: ['JavaScript', 'TypeScript', 'Lua', 'Luau'],
-  backend: ['Node.js', 'NestJS', 'Fastify'],
-  architecture: ['REST APIs', 'gRPC', 'Event-driven systems'],
-  databases: ['PostgreSQL', 'MariaDB', 'MySQL', 'Cassandra', 'MongoDB', 'DynamoDB'],
-  cache: ['Redis', 'Memcached'],
-  infra: ['Docker', 'AWS Lambda'],
-  gameDev: ['FiveM', 'RedM', 'Roblox'],
-};
-```
+### Linguagens
+![Linguagens](https://skillicons.dev/icons?i=js,ts,lua,go,py)
+
+### Back-end
+![Back-end](https://skillicons.dev/icons?i=nodejs,nestjs,nextjs,express,discordjs,fastapi)
+
+### Banco de dados
+![Databases](https://skillicons.dev/icons?i=mysql,postgres,cassandra,mongodb,dynamodb,sqlite)
+
+### Cache
+![Databases](https://skillicons.dev/icons?i=redis)
+
+### Infra
+![Databases](https://skillicons.dev/icons?i=docker,aws,nginx)
 
 ---
 
