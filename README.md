@@ -38,7 +38,7 @@ Além do backend tradicional, também trabalho com game development em **FiveM**
 ## Stack Principal
 
 ### Linguagens
-![Linguagens](https://skillicons.dev/icons?i=js,ts,lua,go,py)
+![Linguagens](https://skillicons.dev/icons?i=js,ts,lua,py)
 
 ### Back-end
 ![Back-end](https://skillicons.dev/icons?i=nodejs,nestjs,nextjs,express,discordjs,fastapi)
@@ -51,6 +51,9 @@ Além do backend tradicional, também trabalho com game development em **FiveM**
 
 ### Infra
 ![Databases](https://skillicons.dev/icons?i=docker,aws,nginx)
+
+## Aprendendo
+![Linguagens](https://skillicons.dev/icons?i=go,ruby,rails,elasticsearch,graphql)
 
 ---
 
