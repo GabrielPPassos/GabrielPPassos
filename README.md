@@ -52,7 +52,7 @@ Além do backend tradicional, também trabalho com game development em **FiveM**
 ### Infra
 ![Databases](https://skillicons.dev/icons?i=docker,aws,nginx)
 
-## Aprendendo
+## Estudando...
 ![Linguagens](https://skillicons.dev/icons?i=go,ruby,rails,elasticsearch,graphql)
 
 ---
